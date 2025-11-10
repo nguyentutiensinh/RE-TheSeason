@@ -66,8 +66,8 @@ Bạn có thể mua bản quyền trực tiếp tại:
 
 ### 1. Tải font
 
-Truy cập kho mã nguồn:  
-🔗 [github.com/nguyentutiensinh/RE-TheSeason](https://github.com/nguyentutiensinh/RE-TheSeason)
+Tải và giải nén file:
+🔗 [RE-TheSeason](https://github.com/nguyentutiensinh/RE-TheSeason/releases/)
 
 Tải file `.ttf` hoặc `.otf` trong thư mục chính hoặc bản phát hành.
 
